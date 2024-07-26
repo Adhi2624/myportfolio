@@ -11,7 +11,7 @@ const Contact = () => {
           <p className='contact__details'>Dont Like Forms? Send Me an Email. 👋</p>
         </div>
 
-        <form action='' className='contact__form'>
+        <form action='mailto:adhiadhithiyan2624@gmail.com' className='contact__form'>
           <div className='contact__form-group'>
             <div className='contact__form-div'>
               <input type='text' className='contact__form-input' placeholder='Your Good Name Here !'/>
